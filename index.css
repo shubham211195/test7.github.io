@@ -1,4 +1,8 @@
+body{
+    background-color: #93FFD8;
+}
 .container{
+    background-color: #F9D371;
     display: flex;
     width: 100vw;
     gap: 20px;
@@ -12,6 +16,7 @@ img{
 .flex{
     width: 30vw;
     height: 30vh;
+    margin: 10px;
 }
 .full{
     width: 100%;
